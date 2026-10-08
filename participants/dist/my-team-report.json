@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "archive": "C:\\Users\\Satyaroop Chatterjee\\Desktop\\conv cup\\participants\\dist\\my-team.zip",
+  "sha256": "84848772486a2287bf71083c8c11a74cab7c367917dfbb8b417f65258e5df3da",
+  "team_name": "RMA-15UCL",
+  "command": [
+    "python",
+    "-m",
+    "team_bot.bot",
+    "--model",
+    "team_bot/models/example_policy.json"
+  ],
+  "compressed_bytes": 18300,
+  "uncompressed_bytes": 57015,
+  "file_count": 10,
+  "dependencies": [],
+  "model_files": [
+    "team_bot/models/example_policy.json"
+  ],
+  "errors": [],
+  "warnings": []
+}
