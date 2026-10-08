@@ -1,0 +1,10 @@
+{
+  "name": "RMA-15UCL",
+  "command": [
+    "python",
+    "-m",
+    "team_bot.bot",
+    "--model",
+    "team_bot/models/example_policy.json"
+  ]
+}
