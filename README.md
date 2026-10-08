@@ -4,7 +4,6 @@ A bot for the **Conv-Cup '26 "FIFA of AI"** contest (Machine Learning Division, 
 
 This repository holds our bot, the tools we built to test it, and a record of how and why it changed.
 
-> **Status in one line:** a working planner that beats every reference bot we have, but it is still being tuned. Its weakest known matchups are a pure goal-keeper style opponent and a mirror of itself. See [Present state](#6-present-state) and [Known issues](#9-known-issues-and-honest-caveats).
 
 ---
 
@@ -19,7 +18,6 @@ This repository holds our bot, the tools we built to test it, and a record of ho
 7. [Results so far](#7-results-so-far)
 8. [Expected results and how we will judge them](#8-expected-results-and-how-we-will-judge-them)
 9. [Known issues and honest caveats](#9-known-issues-and-honest-caveats)
-10. [Next steps](#10-next-steps)
 
 ---
 
